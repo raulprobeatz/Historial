@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: HistoriaOcupacional
+        psr4_prefix: HistoriaOcupacional
+        src_path: app
